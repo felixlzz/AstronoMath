@@ -9,6 +9,14 @@ Students ages 4-12 (ie. in elementary school) who struggle with math but want to
 ### _Educational Concepts_
 Elementary math. astronomy, light pollution. 
 
+## UI Demonstration
+<img src="./data/Uidemo1.gif"/>
+<img src="./data/Uidemo2.gif"/>
+<img src="./data/Uidemo3.gif"/>
+
+## UML Diagram
+<img src="./data/UMLHelloHacks2022.drawio.png"/>
+
 ## User Stories
 - As a student, I want to be able to be quickly tap through questions I can practice math but not be bored.
 - as a student, I want to be able to percieve my progress and performance in visual, non-numerical way without requiring a grade so that I can have fun learning and not worry about grades.
@@ -16,15 +24,6 @@ Elementary math. astronomy, light pollution.
 - As a student, I want to be able to collect constellations so that I can compete with my friends.
 - As a student, I want to be able to view my constellations at any time so that I can show my progress in the game to my friends.
 - As a student, I want to be able to tap on a constellation in my constellation collection to view its name so that I can know the name and shapes of the constellations I am collecting.
-
-
-## UML Diagram
-<img src="./data/UMLHelloHacks2022.drawio.png"/>
-
-## UI Demonstration
-<img src="./data/Uidemo1.gif"/>
-<img src="./data/Uidemo2.gif"/>
-<img src="./data/Uidemo3.gif"/>
 
 ## Credit
 Created with Michael Velve, Rishabh Ghanty, and Felix Li for HelloHacks 2022 at the University of British Columbia
